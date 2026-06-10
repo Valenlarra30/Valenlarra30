@@ -24,7 +24,7 @@ Me especializo en arquitecturas low-code, consumo de APIs y optimización de flu
 
 ### 🚀 Proyectos Destacados
 
-#### 📈 [Market Sentiment & Alert Bot](#) 
+#### 📈 [Market Sentiment & Alert Bot](https://github.com/Valenlarra30/Market-sentiment-bot) 
 Sistema automatizado que realiza web scraping de noticias financieras (Bloomberg Línea, Infobae), procesa el sentimiento del mercado utilizando la IA de Gemini y notifica alertas de tendencias cambiarias directamente vía Telegram.
 * **Tecnologías:** n8n, Gemini API, Telegram Webhooks, Docker, RSS.
 
